@@ -1,0 +1,6 @@
+tensorflow
+numpy
+open3d
+pandas
+pyarrow
+fastparquet
