@@ -36,7 +36,7 @@ pip install -r Code/requirements.txt
 
 1. Create a Data folder at the root of the project:
 ```mkdir Data```
-2. Download the LiDAR data from the following link: [LiDAR Data](https://drive.google.com/drive/folders/1e3jgazJ6bIzTRyJAOrqcBIre-RYqYWj6)
+2. Download the LiDAR data from the following link: [LiDAR Data](https://drive.google.com/file/d/1fSCuJ439CxwtkZXsWsZ7DnZ9ohlgMFbY/view?usp=sharing)
 3. Place the downloaded file in the Data folder.
 
 
@@ -46,7 +46,7 @@ pip install -r Code/requirements.txt
 
 2. Run the script:
 ```
-python lidar_visualization.py
+python Code/visualize_lidar.py
 ```
 
 3. The script will process the data and open a window displaying the 3D point cloud visualization.
